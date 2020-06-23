@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0FmqmrnUPPakt1lYNIUXAnaqFFRV7sm98TCifhr6d2Gl1OJ8sl2fVf8fkrHj8P4LhuS9bUu85ZP533Tqr7UNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morga\\source\\repos\\RandyMorgan13\\SD104_FTW6_2020\\3_4Lab\\3_4Lab\\3_4Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
