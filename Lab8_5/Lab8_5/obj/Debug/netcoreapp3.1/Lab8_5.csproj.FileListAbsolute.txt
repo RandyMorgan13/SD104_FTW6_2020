@@ -1,0 +1,13 @@
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.csprojAssemblyReference.cache
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.AssemblyInfoInputs.cache
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.AssemblyInfo.cs
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.csproj.CoreCompileInputs.cache
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\bin\Debug\netcoreapp3.1\Lab8_5.exe
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\bin\Debug\netcoreapp3.1\Lab8_5.deps.json
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\bin\Debug\netcoreapp3.1\Lab8_5.runtimeconfig.json
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\bin\Debug\netcoreapp3.1\Lab8_5.runtimeconfig.dev.json
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\bin\Debug\netcoreapp3.1\Lab8_5.dll
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\bin\Debug\netcoreapp3.1\Lab8_5.pdb
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.dll
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.pdb
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab8_5\Lab8_5\obj\Debug\netcoreapp3.1\Lab8_5.genruntimeconfig.cache
