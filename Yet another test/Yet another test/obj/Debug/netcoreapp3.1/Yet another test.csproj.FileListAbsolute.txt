@@ -1,0 +1,12 @@
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\bin\Debug\netcoreapp3.1\Yet another test.exe
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\bin\Debug\netcoreapp3.1\Yet another test.deps.json
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\bin\Debug\netcoreapp3.1\Yet another test.runtimeconfig.json
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\bin\Debug\netcoreapp3.1\Yet another test.runtimeconfig.dev.json
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\bin\Debug\netcoreapp3.1\Yet another test.dll
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\bin\Debug\netcoreapp3.1\Yet another test.pdb
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\obj\Debug\netcoreapp3.1\Yet another test.AssemblyInfoInputs.cache
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\obj\Debug\netcoreapp3.1\Yet another test.AssemblyInfo.cs
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\obj\Debug\netcoreapp3.1\Yet another test.csproj.CoreCompileInputs.cache
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\obj\Debug\netcoreapp3.1\Yet another test.dll
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\obj\Debug\netcoreapp3.1\Yet another test.pdb
+C:\Users\morga\source\repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Yet another test\Yet another test\obj\Debug\netcoreapp3.1\Yet another test.genruntimeconfig.cache
