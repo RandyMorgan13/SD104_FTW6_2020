@@ -1,0 +1,3 @@
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\11Practice\11Practice\obj\Debug\netcoreapp3.1\11Practice.AssemblyInfoInputs.cache
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\11Practice\11Practice\obj\Debug\netcoreapp3.1\11Practice.AssemblyInfo.cs
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\11Practice\11Practice\obj\Debug\netcoreapp3.1\11Practice.csproj.CoreCompileInputs.cache

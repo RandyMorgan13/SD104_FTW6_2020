@@ -1,0 +1,5 @@
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab11_5\Lab11_5\obj\Debug\netcoreapp3.1\Lab11_5.AssemblyInfoInputs.cache
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab11_5\Lab11_5\obj\Debug\netcoreapp3.1\Lab11_5.AssemblyInfo.cs
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab11_5\Lab11_5\obj\Debug\netcoreapp3.1\Lab11_5.csproj.CoreCompileInputs.cache
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab11_5\Lab11_5\bin\Debug\netcoreapp3.1\Lab11_5.exe
+C:\Users\morga\Source\Repos\SD104_FTW6_2020\RandyMorgan13\SD104_FTW6_2020\Lab11_5\Lab11_5\obj\Debug\netcoreapp3.1\Lab11_5.csprojAssemblyReference.cache
