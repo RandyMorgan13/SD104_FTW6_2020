@@ -31,7 +31,7 @@ namespace Lab11_5
             html.Append("<title>Sakila New Films</title>\n");
             html.Append("</head>\n");
             html.Append("<body\n");
-            html.Append("<h1> New Films Coming to a Theater near You!</h1>\n");
+            html.Append("<h1> New Films Coming to a Theater Near You!</h1>\n");
             html.Append("<ul>\n");
             foreach (var film in newfilms)
             {

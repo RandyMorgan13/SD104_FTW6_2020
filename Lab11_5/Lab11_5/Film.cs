@@ -35,7 +35,7 @@ namespace Lab11_5
             this.replacement_cost = replacement_cost;
             this.rating = rating;
 
-            special_features = "Bloopers";
+            special_features = "Trailers";
             last_update = DateTime.Now;
             language_id = 1;
             original_language_id = 1;
