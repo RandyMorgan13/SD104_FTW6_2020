@@ -14,11 +14,11 @@ namespace Lab11_5
             SakilaContext sakila = new SakilaContext();
             Film war1917 = new Film("1917", "2019 War Drama By Director Sam Mendes", "2019", 3, 5.99m, 179, 19.99m, "R");
             Film joker = new Film("Joker", "Oscar-Nominated SuperHero Drama", "2019", 3, 6.99m, 182, 23.99m, "R");
-            Film jarjarAbrams = new Film("Star Wars: The Rise of SkyWalker", "Trash Disney Fanfic", "2019", 3, 4.99m, 202, 21.99m, "PG-13");
+            Film starwars = new Film("Star Wars: The Rise of SkyWalker", "Ruin Your Childhood in 3 hours", "2019", 3, 4.99m, 202, 21.99m, "PG-13");
 
             sakila.Film.Add(war1917);  
             sakila.Film.Add(joker);  
-            sakila.Film.Add(jarjarAbrams); 
+            sakila.Film.Add(starwars); 
             sakila.SaveChanges();
 
             Film[] allfilms = sakila.Film.ToArray();
@@ -31,7 +31,7 @@ namespace Lab11_5
             html.Append("<title>Sakila New Films</title>\n");
             html.Append("</head>\n");
             html.Append("<body\n");
-            html.Append("<h1> New Films Coming Soon! </h1>\n");
+            html.Append("<h1> New Films Coming to a Theater near You!</h1>\n");
             html.Append("<ul>\n");
             foreach (var film in newfilms)
             {

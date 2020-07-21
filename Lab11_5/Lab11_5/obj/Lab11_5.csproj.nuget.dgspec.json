@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morga\\Source\\Repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj": {}
+    "C:\\Users\\morga\\source\\repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morga\\Source\\Repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj": {
+    "C:\\Users\\morga\\source\\repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morga\\Source\\Repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj",
+        "projectUniqueName": "C:\\Users\\morga\\source\\repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj",
         "projectName": "Lab11_5",
-        "projectPath": "C:\\Users\\morga\\Source\\Repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj",
+        "projectPath": "C:\\Users\\morga\\source\\repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\Lab11_5.csproj",
         "packagesPath": "C:\\Users\\morga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morga\\Source\\Repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\obj\\",
+        "outputPath": "C:\\Users\\morga\\source\\repos\\SD104_FTW6_2020\\RandyMorgan13\\SD104_FTW6_2020\\Lab11_5\\Lab11_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morga\\AppData\\Roaming\\NuGet\\NuGet.Config",
